@@ -27,5 +27,3 @@ Key Insights:
 ---
 
 
-📍 Data Analyst | Power BI Enthusiast  
-[LinkedIn Profile](#) *(add your link here)*
