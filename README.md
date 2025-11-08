@@ -26,4 +26,5 @@ Key Insights:
 
 ---
 
-
+📸 Dashboard Preview 
+![HR Analytics Dashboard](dashboard_screenshot.png)
